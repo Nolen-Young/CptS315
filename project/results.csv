@@ -1,0 +1,53 @@
+support,itemsets,length
+0.645,frozenset({'standard'}),1
+0.642,frozenset({'none'}),1
+0.541,frozenset({'Fail'}),1
+0.518,frozenset({'female'}),1
+0.482,frozenset({'male'}),1
+0.459,frozenset({'Pass'}),1
+0.418,"frozenset({'none', 'standard'})",2
+0.401,"frozenset({'none', 'Fail'})",2
+0.358,frozenset({'completed'}),1
+0.355,frozenset({'free/reduced'}),1
+0.349,"frozenset({'Pass', 'standard'})",2
+0.334,"frozenset({'none', 'female'})",2
+0.329,"frozenset({'standard', 'female'})",2
+0.319,frozenset({'group C'}),1
+0.316,"frozenset({'standard', 'male'})",2
+0.308,"frozenset({'none', 'male'})",2
+0.296,"frozenset({'standard', 'Fail'})",2
+0.291,"frozenset({'Fail', 'male'})",2
+0.268,"frozenset({'Pass', 'female'})",2
+0.262,frozenset({'group D'}),1
+0.25,"frozenset({'Fail', 'female'})",2
+0.245,"frozenset({'Fail', 'free/reduced'})",2
+0.241,"frozenset({'none', 'Pass'})",2
+0.227,"frozenset({'completed', 'standard'})",2
+0.226,frozenset({'some college'}),1
+0.225,"frozenset({'standard', 'none', 'Fail'})",3
+0.224,"frozenset({'none', 'free/reduced'})",2
+0.222,"frozenset({""associate's degree""})",1
+0.218,"frozenset({'Pass', 'completed'})",2
+0.215,"frozenset({'none', 'standard', 'female'})",3
+0.211,"frozenset({'none', 'Fail', 'male'})",3
+0.205,"frozenset({'standard', 'group C'})",2
+0.203,"frozenset({'none', 'standard', 'male'})",3
+0.202,"frozenset({'none', 'group C'})",2
+0.201,"frozenset({'Pass', 'standard', 'female'})",3
+0.196,frozenset({'high school'}),1
+0.193,"frozenset({'none', 'Pass', 'standard'})",3
+0.191,"frozenset({'Pass', 'male'})",2
+0.19,"frozenset({'none', 'Fail', 'female'})",3
+0.19,frozenset({'group B'}),1
+0.189,"frozenset({'free/reduced', 'female'})",2
+0.184,"frozenset({'completed', 'female'})",2
+0.18,"frozenset({'group C', 'female'})",2
+0.18,"frozenset({'none', 'group D'})",2
+0.179,frozenset({'some high school'}),1
+0.177,"frozenset({'Fail', 'group C'})",2
+0.176,"frozenset({'none', 'Fail', 'free/reduced'})",3
+0.174,"frozenset({'completed', 'male'})",2
+0.168,"frozenset({'standard', 'Fail', 'male'})",3
+0.167,"frozenset({'group D', 'standard'})",2
+0.166,"frozenset({'male', 'free/reduced'})",2
+0.156,"frozenset({'Pass', 'standard', 'completed'})",3

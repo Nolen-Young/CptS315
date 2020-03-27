@@ -1,0 +1,43 @@
+Homework 3
+[Binary Perceptron]
+iteration-1: TrainMistakes:134 TrainAccuracy:58.385093 TestMistakes:30 TestAccuracy:70.297030
+iteration-2: TrainMistakes:121 TrainAccuracy:62.422360 TestMistakes:28 TestAccuracy:72.277228
+iteration-3: TrainMistakes:127 TrainAccuracy:60.559006 TestMistakes:28 TestAccuracy:72.277228
+iteration-4: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-5: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-6: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-7: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-8: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-9: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-10: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-11: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-12: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-13: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-14: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-15: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-16: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-17: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-18: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-19: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+iteration-20: TrainMistakes:128 TrainAccuracy:60.248447 TestMistakes:28 TestAccuracy:72.277228
+[Multi Class Perceptron]
+iteration-1: TrainMistakes:2293 TrainAccuracy:50.335716 TestMistakes:18687 TestAccuracy:60.687914
+iteration-2: TrainMistakes:1867 TrainAccuracy:59.562486 TestMistakes:18253 TestAccuracy:61.600926
+iteration-3: TrainMistakes:1762 TrainAccuracy:61.836690 TestMistakes:18256 TestAccuracy:61.594614
+iteration-4: TrainMistakes:1740 TrainAccuracy:62.313190 TestMistakes:18274 TestAccuracy:61.556748
+iteration-5: TrainMistakes:1744 TrainAccuracy:62.226554 TestMistakes:18324 TestAccuracy:61.451562
+iteration-6: TrainMistakes:1689 TrainAccuracy:63.417804 TestMistakes:18276 TestAccuracy:61.552540
+iteration-7: TrainMistakes:1647 TrainAccuracy:64.327485 TestMistakes:18277 TestAccuracy:61.550437
+iteration-8: TrainMistakes:1661 TrainAccuracy:64.024258 TestMistakes:18261 TestAccuracy:61.584096
+iteration-9: TrainMistakes:1668 TrainAccuracy:63.872645 TestMistakes:18402 TestAccuracy:61.287472
+iteration-10: TrainMistakes:1658 TrainAccuracy:64.089235 TestMistakes:18236 TestAccuracy:61.636689
+iteration-11: TrainMistakes:1626 TrainAccuracy:64.782326 TestMistakes:18346 TestAccuracy:61.405280
+iteration-12: TrainMistakes:1643 TrainAccuracy:64.414122 TestMistakes:18287 TestAccuracy:61.529399
+iteration-13: TrainMistakes:1657 TrainAccuracy:64.110895 TestMistakes:18213 TestAccuracy:61.685074
+iteration-14: TrainMistakes:1659 TrainAccuracy:64.067576 TestMistakes:18118 TestAccuracy:61.884927
+iteration-15: TrainMistakes:1615 TrainAccuracy:65.020576 TestMistakes:18245 TestAccuracy:61.617755
+iteration-16: TrainMistakes:1663 TrainAccuracy:63.980940 TestMistakes:18199 TestAccuracy:61.714526
+iteration-17: TrainMistakes:1631 TrainAccuracy:64.674031 TestMistakes:18244 TestAccuracy:61.619859
+iteration-18: TrainMistakes:1647 TrainAccuracy:64.327485 TestMistakes:18249 TestAccuracy:61.609340
+iteration-19: TrainMistakes:1608 TrainAccuracy:65.172190 TestMistakes:18192 TestAccuracy:61.729252
+iteration-20: TrainMistakes:1635 TrainAccuracy:64.587394 TestMistakes:18128 TestAccuracy:61.863890
